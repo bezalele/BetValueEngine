@@ -1,4 +1,4 @@
-using BetValueEngine.Data;
+using SmartSportsBetting.Infrastructure.Data;
 using BetValueEngine.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
